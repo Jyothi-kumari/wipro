@@ -1,1 +1,6 @@
+Q1: What is Java?
+A: Java is a high-level, class-based, object-oriented programming language.
+
+Q2: What is the use of JVM?
+A: JVM stands for Java Virtual Machine. It is used to run Java bytecode on any platform.
 
